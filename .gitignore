@@ -1,0 +1,39 @@
+# Compilation Java et Maven
+*.class
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse (et métadonnées de l'extension Java de VS Code)
+.project
+.classpath
+.settings/
+bin/
+
+# Journaux et plantages de la JVM
+*.log
+hs_err_pid*
+replay_pid*
+
+# Archives
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# BlueJ, J2ME
+*.ctxt
+.mtj.tmp/
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
